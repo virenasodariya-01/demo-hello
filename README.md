@@ -1,2 +1,2 @@
 # demo-hello
-this is a first git and github repository
+this is a first git and github repository.
